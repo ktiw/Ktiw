@@ -12,6 +12,6 @@
 - **Tools:** IntelliJ IDEA, Git, Maven
 
 📫 **Связь со мной:**
-- FunPay: [Твоя ссылка на профиль FunPay]
-- Telegram: [Твой юзернейм, если хочешь]
+- FunPay: https://funpay.com/users/15795172/
+- Telegram: https://t.me/KYRLA_Ktiw
 
