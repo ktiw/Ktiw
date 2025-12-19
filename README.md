@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Привет, я Денис!
 
-<!--
-**ktiw/Ktiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий **Java Developer**, специализируюсь на создании плагинов для **Minecraft (Spigot/Paper)**.
 
-Here are some ideas to get you started:
+🔭 **Сейчас я работаю над:**
+- Изучением сложной логики плагинов и баз данных (SQLite/MySQL).
+- Созданием кастомных механик для серверов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Мой стек:**
+- **Languages:** Java (Core, Collections)
+- **Minecraft API:** Spigot, Paper, Bukkit
+- **Tools:** IntelliJ IDEA, Git, Maven
+
+📫 **Связь со мной:**
+- FunPay: [Твоя ссылка на профиль FunPay]
+- Telegram: [Твой юзернейм, если хочешь]
+
